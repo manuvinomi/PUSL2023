@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1086804380835",
+    "firebase_url": "https://bookapp-6284d-default-rtdb.firebaseio.com",
+    "project_id": "bookapp-6284d",
+    "storage_bucket": "bookapp-6284d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086804380835:android:f10df1cf24993f8e1d4316",
+        "android_client_info": {
+          "package_name": "com.company.ebookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086804380835-4ikboiqmvaqm5lhn8r0tusa75fd1p1c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSvnAeSmSu6P7pjMetWlRSG-HPN0J0U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086804380835-4ikboiqmvaqm5lhn8r0tusa75fd1p1c9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086804380835-2o958ac1lh9k36ut0k0kjotfodqa8tc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.ebook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
